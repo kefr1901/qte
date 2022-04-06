@@ -28,6 +28,24 @@
   color: #61dafb;
 }
 
+.comment-container {
+  box-sizing: content-box;
+width: 100%;
+border: solid white 5px;
+padding: 5px;
+}
+
+.form-group {
+  box-sizing: content-box;
+  width: 100%;
+  border: solid white 5px;
+  padding: 5px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
